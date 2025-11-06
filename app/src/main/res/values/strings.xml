@@ -1,3 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">jimenez-info</string>
+    <string name="app_name">About Gerfel</string>
+    <string name="name">GERFEL JAY JIMENEZ</string>
+    <string name="contact">40 Topaz Street\nCagayan de Oro City\n(+63) 92 299 5829</string>
+    <string name="bio">Hi, my name is Gerfel.\n\nI love exploring new experiences and discovering new worlds through stories and fiction.\n\nI’ve read hundreds of thousands of pages — mostly Japanese manga — and every story teaches me something new.\n\nI also enjoy connecting with people who share the same interests.\nThat’s why I often leave comments here and there, just to share thoughts and start conversations.\n\nIt always makes me happy when I see comments from others on works I recently enjoyed.\nIt feels great to know that there are people out there who feel the same excitement about a story as I do.\n\n</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
 </resources>
