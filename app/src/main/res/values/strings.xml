@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">About Gerfel</string>
-    <string name="name">GERFEL JAY JIMENEZ</string>
-    <string name="contact">40 Topaz Street\nCagayan de Oro City\n(+63) 92 299 5829</string>
-    <string name="bio">Hi, my name is Gerfel.\n\nI love exploring new experiences and discovering new worlds through stories and fiction.\n\nI’ve read hundreds of thousands of pages — mostly Japanese manga — and every story teaches me something new.\n\nI also enjoy connecting with people who share the same interests.\nThat’s why I often leave comments here and there, just to share thoughts and start conversations.\n\nIt always makes me happy when I see comments from others on works I recently enjoyed.\nIt feels great to know that there are people out there who feel the same excitement about a story as I do.\n\n</string>
-    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="app_name">About Us</string>
+
+    <string name="what_is_your_nickname">What do they call us?</string>
     <string name="done">Done</string>
+
+    <string name="group_photo">Group Photo</string>
+    <string name="yellow_star">Yellow star</string>
+
+    <string name="jimenez_name">Gerfel Jay Jimenez</string>
+    <string name="jimenez_bio">Hi, my name is Gerfel.\n\nI love getting new experiences and discovering new alternates through stories and fiction.\n\nI\'ve read hundreds of thousands of pages — mostly Japanese manga — and every story teaches me something new.\n\nI also feel joy connecting with people who share the same interests.\nThat\'s why I often leave comments here and there, just to share thoughts and start conversations.\n\nIt always makes me happy when I see comments from others on works I recently enjoyed.\nIt feels great to know that there are people out there who feel the same excitement about a story as I do.</string>
+
+    <string name="langcao_name">Jerome Lloyd Langcao</string>
+    <string name="langcao_bio">I am Jerome Lloyd Langcao.\n\nI live in Ramonal Village, Camaman-an, Block 6.\nI was born on the 6th of October 2002, and I am currently 23 years of age.</string>
+
+    <string name="llenares_name">Ivan Risan Llenares</string>
+    <string name="llenares_bio">Hi, my name is Ivan.\n\n</string>
+
+    <string name="romarate_name">Kent Xylle Ryz Romarate</string>
+    <string name="romarate_bio">Hi, my name is Kent.\n\nI\'m someone who loves experiencing life through different adventures and forms of expression.\n\nI enjoy exploring new places and traveling because it lets me discover new cultures, people, and ideas.\nI also love playing video games — not just for fun, but because they allow me to experience stories, challenges, and worlds beyond reality.\n\nMusic is another big part of my life; it helps me relax, express my emotions, and stay inspired.\nAnd of course, I love watching movies, whether it\'s for the excitement, the storytelling, or just the simple comfort of relaxing after a long day.\n\nAltogether, these interests shape who I am: curious, creative, and always open to new experiences.</string>
+
+    <string name="uyguangco_name">Kent Andrei Uyguangco</string>
+    <string name="uyguangco_bio">Hi, my name is Kent Andrei L. Uyguangco.\n\nI\'m a 21-year-old XU student raised in Iligan City.\n\nMy main passion is collecting and customizing Gunpla Model Kits. I love to paint them and build detailed dioramas.\n\nI also enjoy a variety of creative and practical skills, including Painting, Drawing, Sculpting, Cooking, and Cleaning.\n\nWhen it comes to food, I really like fish, especially served in a hot soup or simply fried.\n\n</string>
 </resources>
